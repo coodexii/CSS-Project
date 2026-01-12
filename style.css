@@ -53,13 +53,4 @@ nav ul li a {
     cursor: pointer;
 }
 
-@media(max-width: 600px)
-{
-    .main-title{
-        font-size: 1.5rem;
-    }
 
-    .join-button{
-        width:70%
-    }
-}
