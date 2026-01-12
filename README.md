@@ -18,7 +18,7 @@ This project focuses on practicing **basic CSS concepts** through designing a si
 - Basic positioning
 
 # Live Demo
-https://coodexii.github.io/CSS-Project/
+👉https://coodexii.github.io/CSS-Project/
 
 
 
